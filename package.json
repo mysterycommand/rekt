@@ -1,3 +1,6 @@
 {
-  "name": "rekt"
+  "name": "rekt",
+  "workspaces": [
+    "packages/*"
+  ]
 }
