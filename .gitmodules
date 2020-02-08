@@ -1,3 +1,0 @@
-[submodule "packages/create-react-app"]
-	path = packages/create-react-app
-	url = https://github.com/mysterycommand/create-react-app.git
